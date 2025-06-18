@@ -1,0 +1,4 @@
+wikipedia~=1.4.0
+aiogram~=3.14.0
+python-dotenv
+requests
