@@ -2,7 +2,7 @@
 # from pprint import pprint
 #
 # # API kalitingizni shu yerga yozing
-# API_KEY = '4084878a71ce148a27278f49'
+# API_KEY = ''
 #
 # # API manzili (EUR -> GBP konversiyasi)
 # url = f'https://v6.exchangerate-api.com/v6/{API_KEY}/pair/USD/UZS'
