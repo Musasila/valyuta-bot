@@ -6,7 +6,7 @@ from aiogram.types import Message
 from aiogram.filters import Command
 import wikipedia
 
-API_TOKEN = "6995304389:AAG3_1MTXMAE9E-Uq5Z0mo8rOTWF20Gi6uM"
+API_TOKEN = ""
 wikipedia.set_lang("uz")
 
 bot = Bot(token=API_TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
